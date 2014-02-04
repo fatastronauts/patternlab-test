@@ -1,0 +1,27 @@
+CSS Off
+
+Colors
+	000
+	5f5d66
+	6e6c77
+	b0aeb8
+	cbb8a0
+	fdcd84
+
+Font families
+	Lato Hairline
+		279 fff
+	Lato Regular
+		14
+		19 6e6c77
+	Lora BoldItalic
+		36 5f5d66
+	Lora Italic
+		12 b0aeb8
+	Merriweather
+		13 cbb8a0
+	Merriweather Light
+		25 000
+	Oswald 21
+		Regular 24795a
+		75 fdcd84
